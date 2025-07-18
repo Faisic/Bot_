@@ -1,0 +1,7 @@
+0 manzana
+1 platano
+2 fresa
+3 naranja
+4 aguacate
+5 pitaya
+6 uva
