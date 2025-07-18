@@ -4,6 +4,8 @@ from model import get_class
 import matplotlib.pyplot as plt
 import os
 from PIL import Image
+import random 
+
 
 intents = discord.Intents.default()
 intents.message_content = True
